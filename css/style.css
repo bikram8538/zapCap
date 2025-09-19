@@ -369,7 +369,7 @@ label[for="fileUpload"] {
 }
 
 .features li::before {
-  content: url('../Images/banner/round-orange-tick.png');
+  content: url('../images/banner/round-orange-tick.png');
   left: -20px;
   top: 0;
   padding-right: 4px;
@@ -399,21 +399,21 @@ label[for="fileUpload"] {
 }
 
 .featuresDetails li:nth-of-type(1)::before {
-  content: url('../Images/banner/orange-menu.png');
+  content: url('../images/banner/orange-menu.png');
 }
 
 .featuresDetails li:nth-of-type(2)::before {
-  content: url('../Images/banner/orange-text.png');
+  content: url('../images/banner/orange-text.png');
 
 }
 
 .featuresDetails li:nth-of-type(3)::before {
-  content: url('../Images/banner/orange-media.png');
+  content: url('../images/banner/orange-media.png');
 
 }
 
 .featuresDetails li:nth-of-type(4)::before {
-  content: url('../Images/banner/orange-template.png');
+  content: url('../images/banner/orange-template.png');
 }
 
 /* ------------------------------------------- companies ---- */
@@ -948,7 +948,7 @@ h2 span {
 /* ==================== Free Saas Video ====================  */
 
 .free-sass-video {
-  /* background: url("../Images/free-sass-video-background.png");*/
+  /* background: url("../images/free-sass-video-background.png");*/
   background: linear-gradient(to right, #FF822C66 0%, #F97316ff 75%);
   background-repeat: no-repeat;
   height: auto;
